@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+ 
+    
+}
+.baslık{
+    text-align: left;  
+}
+.acıklama{
+text-align: left;
+ }
+ .gorsel{
+ display: block;
+ margin: auto;
+ border: 2px solid rgb(37, 1, 1);        
+ }
+ h3{
+     color: brown;
+     text-align: center;               
+ }
+ .icerik{            
+     text-align: center;
+ }
+ article{     
+ width: 600px;
+ height: 140px;
+ padding: 20px;
+ position: center;
+ margin: auto;
+ }
+ .bitis{
+     
+     color: brown;
+     text-align: right;
+     font-size: x-large; 
+ }
