@@ -23,7 +23,6 @@ text-align: left;
  }
  article{     
  width: 600px;
- height: 140px;
  padding: 20px;
  position: center;
  margin: auto;
@@ -34,5 +33,5 @@ text-align: left;
      text-align: right;
      font-size: x-large; 
      margin-bottom: 5px;
-     margin-right 650px;
+     margin-right: 350px;
  }
